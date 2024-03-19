@@ -3,6 +3,7 @@
 
 ### It was tested in
 
+- mac OS (Sonoma v14.3.1)
 - Python Version 3.10.11
 - OpenCV Version 4.8.0.76
 
