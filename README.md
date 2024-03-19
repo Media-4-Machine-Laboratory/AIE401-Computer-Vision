@@ -1,13 +1,14 @@
 # AIE401-Computer-Vision
-AIE401-Computer-Vision
 
 
-<h4>It was tested in</h4>
+### It was tested in
 
 - Python Version 3.10.11
 - OpenCV Version 4.8.0.76
 
+<br>
 
+### File Structure
 ```bash
 └── AIE401-Computer-Vision
     ├── Lecture4_OpenCV
