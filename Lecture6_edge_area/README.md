@@ -1,4 +1,4 @@
-## Lecture6 - OpenCV (Result)
+## Lecture6 - Edge & Area (Result)
 
 ### 6-1
 ![chap6-1](./assets/chap6-1.png)
