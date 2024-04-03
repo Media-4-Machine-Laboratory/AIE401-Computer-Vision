@@ -13,6 +13,18 @@
 ```bash
 └── AIE401-Computer-Vision
     ├── Lecture4_OpenCV
+    │   ├── README.md
+    │   ├── assets
+    │   │   ├── chap4-1-1.png
+    │   │   ├── chap4-1-2.png
+    │   │   ├── chap4-2.png
+    │   │   ├── chap4-3.png
+    │   │   ├── chap4-4.png
+    │   │   ├── chap4-5.png
+    │   │   ├── chap4-6.png
+    │   │   ├── chap4-7.png
+    │   │   ├── chap4-8.png
+    │   │   └── chap4-9.png
     │   ├── chap4_1(img_read_display).py
     │   ├── chap4_2(img_read_display_2).py
     │   ├── chap4_3(conversion_resize).py
@@ -22,5 +34,24 @@
     │   ├── chap4_7(insert-figure_click).py
     │   ├── chap4_8(insert-figure_click_drag).py
     │   └── chap4_9(painting).py
+    ├── Lecture6_edge_area
+    │   ├── README.md
+    │   ├── assets
+    │   │   ├── chap6-1.png
+    │   │   ├── chap6-2.png
+    │   │   ├── chap6-3.png
+    │   │   ├── chap6-4.png
+    │   │   ├── chap6-5.png
+    │   │   ├── chap6-6.png
+    │   │   ├── chap6-7.png
+    │   │   └── chap6-8.png
+    │   ├── chap6-1.py
+    │   ├── chap6-2.py
+    │   ├── chap6-3.py
+    │   ├── chap6-4.py
+    │   ├── chap6-5.py
+    │   ├── chap6-6.py
+    │   ├── chap6-7.py
+    │   └── chap6-8.py
     └── README.md
 ```
