@@ -19,7 +19,7 @@
 
 
 ### 6-4
-![chap6-4](./assets/chap6-6.png)
+![chap6-4](./assets/chap6-4.png)
 
 ---
 
