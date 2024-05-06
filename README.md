@@ -65,5 +65,25 @@
 │   │   └── chap7-4.png
 │   ├── mot_color70.jpg
 │   └── mot_color83.jpg
+├── Lecture8_DL_Vision
+│   ├── README.md
+│   ├── assets
+│   │   ├── chap8-1.png
+│   │   ├── chap8-2.png
+│   │   ├── chap8-3.png
+│   │   ├── chap8-4.png
+│   │   ├── chap8-5-1.png
+│   │   ├── chap8-5-2.png
+│   │   ├── chap8-6-1.png
+│   │   ├── chap8-6-2.png
+│   │   └── chap8-7.png
+│   ├── chap8-1.py
+│   ├── chap8-2.py
+│   ├── chap8-3.py
+│   ├── chap8-4.py
+│   ├── chap8-5.py
+│   ├── chap8-6.py
+│   ├── chap8-7.py
+│   └── dmlp_trained.h5
 └── README.md
 ```
