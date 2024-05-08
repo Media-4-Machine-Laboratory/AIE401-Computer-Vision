@@ -34,6 +34,7 @@
 ### 8-6
 ![chap8-6-1](./assets/chap8-6-1.png)
 ![chap8-6-2](./assets/chap8-6-2.png)
+#### CNN Ver.
 ![chap8-6-cnn-1](./assets/chap8-6_cnn-1.png)
 ![chap8-6-cnn-2](./assets/chap8-6_cnn-2.png)
 
