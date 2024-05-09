@@ -76,6 +76,8 @@
 │   │   ├── chap8-5-2.png
 │   │   ├── chap8-6-1.png
 │   │   ├── chap8-6-2.png
+│   │   ├── chap8-6_cnn-1.png
+│   │   ├── chap8-6_cnn-2.png
 │   │   └── chap8-7.png
 │   ├── chap8-1.py
 │   ├── chap8-2.py
@@ -83,6 +85,7 @@
 │   ├── chap8-4.py
 │   ├── chap8-5.py
 │   ├── chap8-6.py
+│   ├── chap8-6_cnn.py
 │   ├── chap8-7.py
 │   └── dmlp_trained.h5
 └── README.md
